@@ -8,6 +8,7 @@
 }
 
 .error__title {
+  position: absolute;
   color: #fff;
   font-family: Oswald, sans-serif;
   font-size: 30px;

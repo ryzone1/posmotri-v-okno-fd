@@ -183,6 +183,7 @@ a {
   display: grid;
   position: relative;
   height: 298px;
+  min-width: 399px;
   overflow-x: hidden;
   overflow-y: auto;
   row-gap: 30px;
